@@ -7,12 +7,12 @@
 
 - Entre em contato comigo: **tglamaral@gmail.com**
 
-- 📄 Conheça minhas experiencias [https://www.linkedin.com/in/tiago-amaral-552155b9/](https://www.linkedin.com/in/tiago-amaral-552155b9/)
+- 📄 Conheça minhas experiencias [https://www.linkedin.com/in/tiago-amaral-552155b9/](https://www.linkedin.com/in/tiagooamaral/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tiagooamaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiagooamaral" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tiago-amaral-552155b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-amaral-552155b9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tiagooamaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-amaral-552155b9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
