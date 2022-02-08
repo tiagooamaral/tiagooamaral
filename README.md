@@ -7,7 +7,7 @@
 
 - Entre em contato comigo: **tglamaral@gmail.com**
 
-- 📄 Conheça minhas experiencias [https://www.linkedin.com/in/tiago-amaral-552155b9/](https://www.linkedin.com/in/tiagooamaral/)
+- 📄 Conheça minhas experiencias [https://www.linkedin.com/in/tiagooamaral/](https://www.linkedin.com/in/tiagooamaral/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
