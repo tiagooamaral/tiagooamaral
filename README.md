@@ -3,7 +3,7 @@
 
 - Sempre em busca de conhecimento!
 
-- Desenvolvedor Delphi!
+- Desenvolvedor PHP, Delphi, JAVA!
 
 - Entre em contato comigo: **tglamaral@gmail.com**
 
