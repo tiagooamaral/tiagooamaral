@@ -18,3 +18,5 @@ Agradeço pela atenção e estou ansioso para discutir e colaborar na área de t
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="tiago-amaral-552155b9" height="30" width="40" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagooamaral)](https://github.com/tiagooamaral/github-readme-stats)
