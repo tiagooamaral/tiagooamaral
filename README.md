@@ -19,4 +19,5 @@ Agradeço pela atenção e estou ansioso para discutir e colaborar na área de t
             alt="tiago-amaral-552155b9" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagooamaral)](https://github.com/tiagooamaral/github-readme-stats)
+Meu perfil Octopws:
+https://github.com/octotiagoamaral
